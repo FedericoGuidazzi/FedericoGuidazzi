@@ -3,7 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federicoguidazzi/)
 
 <!-- Introduction -->
-I'm a **Software Engineer** graduated in Computer Science and Engineering at the Alma Mater Studiorum - University of Bologna
+I'm a **Software Engineer** graduated in Computer Science and Engineering at the Alma Mater Studiorum - University of Bologna.
+
 I'm attending a Master's Degree course in AI at the University Of Turin (UniTo).
 
 * How to reach me: guidazzi.federico@gmail.com
